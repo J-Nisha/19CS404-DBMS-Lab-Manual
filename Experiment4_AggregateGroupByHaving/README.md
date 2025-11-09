@@ -1,6 +1,6 @@
 Experiment 4: Aggregate Functions, Group By and Having Clause
-NAME: MANJUSRI KAVYA R
-REG NO: 212224040186
+NAME: NISHA J
+REG NO: 212223040133
 AIM
 To study and implement aggregate functions, GROUP BY, and HAVING clause with suitable examples.
 
