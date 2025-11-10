@@ -464,7 +464,7 @@ WHERE o.ord_date BETWEEN '2012-07-01' AND '2012-07-30';
 
 ## MODULE 5 SEB GRADE:
 
-<img width="1026" height="63" alt="image" src="https://github.com/user-attachments/assets/39f64b67-eb33-41e3-a856-7aca1a183343" />
+<img width="1172" height="68" alt="image" src="https://github.com/user-attachments/assets/f2a4884e-0d67-40fc-891b-3b040ce10245" />
 
 ## RESULT
 Thus, the SQL queries to implement different types of joins have been executed successfully.
